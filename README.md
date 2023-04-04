@@ -1,4 +1,4 @@
-##lj-inventory with craft & give item menu + more css edit
+## lj-inventory with craft & give item menu + more css edit
 
 # Dependencies
 * [qbcore framework](https://github.com/qbcore-framework)
